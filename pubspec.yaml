@@ -20,6 +20,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - images/papel.png
-    - images/pedra.png
-    - images/tesoura.png
+    - images/pata.png
+    - images/pata2.png
+    - images/pata3.png
+    
